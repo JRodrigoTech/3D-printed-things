@@ -1,14 +1,14 @@
-3D Things
+My custom 3D printed things
 =========
 
-My designs and adaptations for 3D printing.
+This repository has been created to share my 3D printed parts. 
 
-Website: [www.jrodrigo.net](http://www.jrodrigo.net)
+My website: [www.jrodrigo.net](http://www.jrodrigo.net)
 
-Twitter: [@javrodara](https://twitter.com/javrodara)
+My twitter: [@jrodrigotech](https://twitter.com/jrodrigotech)
 
 License
 =========
-All things are licensed under [Creative Commons Share alike and Attribution](http://creativecommons.org/licenses/by-sa/3.0/)  by [J.Rodrigo](http://jrodrigo.net).
+All things in this repository are licensed under [Creative Commons Share alike and Attribution](http://creativecommons.org/licenses/by-sa/3.0/)  by [J.Rodrigo](https://www.jrodrigo.net).
 
-
+PLEASE, RESPECT THE LICENSE, I HAVE INVESTED MY TIME DESIGNING AND SHARING THEM. 
